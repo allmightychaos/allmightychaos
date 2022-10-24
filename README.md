@@ -17,6 +17,7 @@
 </h2>
 
 - 🖥 Software Developer
+- 🖥️ Network Manager
 - 🎓 Studying computer science and software development
 - 🌐 You can access all my open-source projects here on GitHub
 

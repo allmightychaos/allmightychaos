@@ -66,3 +66,10 @@ I learned a lot from the open-source community and I love how collaboration and 
 - Typing Animation: https://readme-typing-svg.demolab.com/demo/
 - Badges: https://shields.io/
 -->
+
+<p style="text-align: left;">
+    This text should be left aligned.
+    <span style="float:right">
+    This text should be right aligned.
+    </span>
+</p>

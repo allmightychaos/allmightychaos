@@ -1,15 +1,21 @@
 <h1 align = "center">
 👋 </br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=28A125&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Chaos+%3A);%3E+github.com%2Fallmightychaos" alt="Typing SVG" /></a>
+
+</br>
+
+📫 Contact Me 📫</br>
 </h1>
 
-## 📫 How to reach me:
-[<img src="https://raw.githubusercontent.com/allmightychaos/allmightychaos/main/socials/linkedin.png" height="40em" align="center" alt="Follow Chaos on LinkedIn" title="Follow Chaos on LinkedIn"/>](https://www.linkedin.com/in/chaos3003/)
-[<img src="https://raw.githubusercontent.com/allmightychaos/allmightychaos/main/socials/twitter.svg" height="40em" align="center" alt="Follow Chaos on Twitter" title="Follow Chaos on Twitter"/>](https://twitter.com/allmightychaos)
-[<img src="https://raw.githubusercontent.com/allmightychaos/allmightychaos/main/socials/instagram.svg" height="40em" align="center" alt="Follow Chaos on Instagram" title="Follow Chaos on Instagram"/>](https://instagram.com/allmighty.chaos)
-[<img src="https://raw.githubusercontent.com/allmightychaos/allmightychaos/main/socials/mailto.svg" height="40em" align="center" alt="Send me an E-Mail" title="Send me an E-Mail"/>](mailto:weghofer.sam@icloud.com)
+- LinkedIn:&emsp;&emsp;[<img src="https://raw.githubusercontent.com/allmightychaos/allmightychaos/main/socials/linkedin.png" height="40em" align="center" alt="Follow Chaos on LinkedIn" title="Follow Chaos on LinkedIn"/>](https://www.linkedin.com/in/chaos3003/)
+- Twitter:&emsp;&emsp;[<img src="https://raw.githubusercontent.com/allmightychaos/allmightychaos/main/socials/twitter.svg" height="40em" align="center" alt="Follow Chaos on Twitter" title="Follow Chaos on Twitter"/>](https://twitter.com/allmightychaos)
+- Instagram:&emsp;[<img src="https://raw.githubusercontent.com/allmightychaos/allmightychaos/main/socials/instagram.svg" height="40em" align="center" alt="Follow Chaos on Instagram" title="Follow Chaos on Instagram"/>](https://instagram.com/allmighty.chaos)
+- Mail:&emsp;&emsp;&emsp;&ensp;[<img src="https://raw.githubusercontent.com/allmightychaos/allmightychaos/main/socials/mailto.svg" height="40em" align="center" alt="E-Mail" title="E-Mail"/>](mailto:weghofer.sam@icloud.com)
 
-## :book: About Me
+<h2 align = "center">
+:book: About Me :book:</br>
+</h2>
+
 - 🖥 Software Developer
 - 🎓 Studying computer science and software development
 - 🌐 You can access all my open-source projects here on GitHub
@@ -21,7 +27,9 @@ I take great care in the experience, architecture, and code quality of the thing
 I'm also an open-source enthusiast and maintainer. 
 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-## Languages and tools:
+<h2 align = "center">
+🔨 Languages and Tools 🔨</br>
+</h2>
 
 ### Languages
 - <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -30,22 +38,30 @@ I learned a lot from the open-source community and I love how collaboration and 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 ### Operating Systems
-- [![macOS](https://img.shields.io/badge/macOS-Ventura-e66702?style=round-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/ventura)<br/>
-- [![Arch-Linux](https://img.shields.io/badge/Linux-Arch-1e3f5a?style=round-square&logo=archlinux&logoColor=1793d1)](https://archlinux.org/)
+- MacOS Ventura: &ensp;[![macOS](https://img.shields.io/badge/macOS-Ventura-e66702?style=round-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/ventura)
+- Debian Linux:&emsp;&emsp;[![Debian-Linux](https://img.shields.io/badge/Linux-Debian-d50856?style=round-square&logo=debian&logoColor=d50856)](https://www.debian.org/index.de.html)
+- Arch Linux:&emsp;&emsp;&emsp;[![Arch-Linux](https://img.shields.io/badge/Linux-Arch-1e3f5a?style=round-square&logo=archlinux&logoColor=1793d1)](https://archlinux.org/)
+- Kali Linux:&emsp;&emsp;&emsp;&ensp;[![Kali-Linux](https://img.shields.io/badge/Linux-Kali-2c74ec?style=round-square&logo=kalilinux&logoColor=1087d2)](https://archlinux.org/)
+- Windows 11:&emsp;&emsp;&nbsp;[![Windows-11](https://img.shields.io/badge/Windows-11-2596be?style=round-square&logo=windows11&logoColor=2596be)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 ### Tools
-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=round-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+- GitHub Copilot:&emsp;&emsp;[![GitHub CoPilot](https://img.shields.io/badge/GitHub-CoPilot-56b335?style=round-square&logo=github&logoColor=56b335)](https://github.com/features/copilot)
+- Visual Studio Code: [![VS Code](https://img.shields.io/badge/IDE-VSCode-1087d2?style=round-square&logo=Visual-studio-code&logoColor=1087d2)](https://code.visualstudio.com/)
 
-If you like what I'm doing, maybe consider buying me a coffee/tea 
+<h2 align = "center">
+♡ Support me ♡</br>
+</h2>
 
-<a href="https://www.buymeacoffee.com/allmightychaos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" width="150" ></a>
+<!-- If you want to have any of those pictures, feel free to contact me and I will send them to you. -->
+<p align="center">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=57YPDJCJ3U66S" target="_blank">
+      <img width="18%" alt="Donate with Paypal" src="https://github.com/allmightychaos/.github/blob/main/.resources/support-paypal.svg"/>
+  <a href="https://www.buymeacoffee.com/allmightychaos" target="_blank">
+      <img width="18%" alt="Buy me a coffee" src="https://github.com/allmightychaos/.github/blob/main/.resources/support-buy-coffee.svg"/>
+  </a>
+</p>
 
-## Activity
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-## Tools used
-- [Readme Typing](https://readme-typing-svg.demolab.com/demo/)
-- [Badges](https://shields.io/)
+<!-- Tools used for the creation: 
+- Typing Animation: https://readme-typing-svg.demolab.com/demo/
+- Badges: https://shields.io/
+-->

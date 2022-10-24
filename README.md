@@ -9,7 +9,7 @@
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/closed-mailbox-with-raised-flag_1f4eb.png" height="40em"/</br>
 </h1>
 
-- LinkedIn:&emsp;&emsp;[<img src="https://raw.githubusercontent.com/allmightychaos/allmightychaos/main/socials/linkedin.png" height="40em" align="center" alt="Follow Chaos on LinkedIn" title="Follow Chaos on LinkedIn"/>](https://www.linkedin.com/in/chaos3003/)
+- LinkedIn:&emsp;&emsp;[<img src="https://raw.githubusercontent.com/allmightychaos/allmightychaos/main/socials/linkedin.svg" height="40em" align="center" alt="Follow Chaos on LinkedIn" title="Follow Chaos on LinkedIn"/>](https://www.linkedin.com/in/chaos3003/)
 - Twitter:&emsp;&emsp;[<img src="https://raw.githubusercontent.com/allmightychaos/allmightychaos/main/socials/twitter.svg" height="65em" align="center" alt="Follow Chaos on Twitter" title="Follow Chaos on Twitter"/>](https://twitter.com/allmightychaos)
 - Instagram:&emsp;[<img src="https://raw.githubusercontent.com/allmightychaos/allmightychaos/main/socials/instagram.svg" height="40em" align="center" alt="Follow Chaos on Instagram" title="Follow Chaos on Instagram"/>](https://instagram.com/allmighty.chaos)
 - Mail:&emsp;&emsp;&emsp;&ensp;[<img src="https://raw.githubusercontent.com/allmightychaos/allmightychaos/main/socials/mailto.svg" height="40em" align="center" alt="E-Mail" title="E-Mail"/>](mailto:weghofer.sam@icloud.com)

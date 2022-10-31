@@ -24,9 +24,9 @@
 </p>
 
 <h2 align = "center">
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/open-book_1f4d6.png" height="40em"/> 
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/open-book_1f4d6.png" height="30em"/> 
  About Me 
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/open-book_1f4d6.png" height="40em"/> </br>
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/open-book_1f4d6.png" height="30em"/> </br>
 </h2>
 
 - <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/desktop-computer_1f5a5-fe0f.png" height="20em"/> Software Developer
@@ -42,9 +42,9 @@ I'm also an open-source enthusiast and maintainer.
 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <h2 align = "center">
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/hammer_1f528.png" height="40em"/> 
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/hammer_1f528.png" height="25em"/> 
  Languages and Tools 
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/hammer_1f528.png" height="40em"/></br>
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/hammer_1f528.png" height="25em"/></br>
 </h2>
 
 ### Languages
@@ -66,9 +66,9 @@ I learned a lot from the open-source community and I love how collaboration and 
 
 
 <h2 align = "center">
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/chart-increasing_1f4c8.png" height="40em"/> 
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/chart-increasing_1f4c8.png" height="20em"/> 
  Statistics
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/chart-decreasing_1f4c9.png" height="40em"/></br>
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/chart-decreasing_1f4c9.png" height="20em"/></br>
 </h2>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

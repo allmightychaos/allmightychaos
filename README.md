@@ -1,5 +1,5 @@
 <h1 align = "center">
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/waving-hand_1f44b.png" height="40em" align="center"/></br>
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/waving-hand_1f44b.png" height="60em" align="center"/></br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=28A125&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Chaos+%3A);%3E+github.com%2Fallmightychaos" alt="Typing SVG" /></a>
 
 </br>

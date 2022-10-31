@@ -64,6 +64,15 @@ I learned a lot from the open-source community and I love how collaboration and 
 - GitHub Copilot:&emsp;&emsp;[![GitHub CoPilot](https://img.shields.io/badge/GitHub-CoPilot-56b335?style=round-square&logo=github&logoColor=56b335)](https://github.com/features/copilot)
 - Visual Studio Code: [![VS Code](https://img.shields.io/badge/IDE-VSCode-1087d2?style=round-square&logo=Visual-studio-code&logoColor=1087d2)](https://code.visualstudio.com/)
 
+
+<h2 align = "center">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/chart-increasing_1f4c8.png" height="40em"/> 
+ Statistics
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/chart-decreasing_1f4c9.png" height="40em"/></br>
+</h2>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h2 align = "center">
 ♡ Support me ♡</br>
 </h2>

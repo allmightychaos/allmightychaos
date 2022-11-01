@@ -71,6 +71,16 @@ I learned a lot from the open-source community and I love how collaboration and 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/chart-decreasing_1f4c9.png" height="20em"/></br>
 </h2>
 <!--START_SECTION:waka-->
+
+```text
+From: 23 October 2022 - To: 30 October 2022
+
+Total Time: 32 mins
+
+C++        18 mins         █████████████▓░░░░░░░░░░░   55.16 %
+Other      8 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.38 %
+```
+
 <!--END_SECTION:waka-->
 
 <h2 align = "center">

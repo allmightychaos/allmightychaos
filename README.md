@@ -58,7 +58,7 @@ I learned a lot from the open-source community and I love how collaboration and 
 - Debian Linux:&emsp;&emsp;[![Debian-Linux](https://img.shields.io/badge/Linux-Debian-d50856?style=round-square&logo=debian&logoColor=d50856)](https://www.debian.org/index.de.html)
 - Arch Linux:&emsp;&emsp;&emsp;[![Arch-Linux](https://img.shields.io/badge/Linux-Arch-1e3f5a?style=round-square&logo=archlinux&logoColor=1793d1)](https://archlinux.org/)
 - Kali Linux:&emsp;&emsp;&emsp;&ensp;[![Kali-Linux](https://img.shields.io/badge/Linux-Kali-2c74ec?style=round-square&logo=kalilinux&logoColor=ffffff)](https://archlinux.org/)
-- Windows 11:&emsp;&emsp;&nbsp;[![Windows-11](https://img.shields.io/badge/Windows-11-2596be?style=round-square&logo=windows11&logoColor=2596be)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+- Windows 11:&emsp;&emsp;&nbsp;&nbsp;[![Windows-11](https://img.shields.io/badge/Windows-11-2596be?style=round-square&logo=windows11&logoColor=2596be)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 ### Tools
 - GitHub Copilot:&emsp;&emsp;[![GitHub CoPilot](https://img.shields.io/badge/GitHub-CoPilot-56b335?style=round-square&logo=github&logoColor=56b335)](https://github.com/features/copilot)

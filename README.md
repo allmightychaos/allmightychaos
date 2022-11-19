@@ -47,12 +47,16 @@ I learned a lot from the open-source community and I love how collaboration and 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/hammer_1f528.png" height="25em"/></br>
 </h2>
 
-### Languages
-- <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/python.svg"></code>
-<code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/cpp.svg"></code>
+<h3 align="center">Languages</h3>
+<p align="center">
+<code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/cpp.svg"></code> 
 <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/java.svg"></code>
-<code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/mysql.svg"></code>
-
+<code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/html.svg"></code>
+<code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/css.svg"></code>
+<code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/js.svg"></code>
+<code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/python.svg"></code>
+</p>
+ 
 ### Operating Systems
 - MacOS Ventura: &ensp;[![macOS](https://img.shields.io/badge/macOS-Ventura-e66702?style=round-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/ventura)
 - Debian Linux:&emsp;&emsp;[![Debian-Linux](https://img.shields.io/badge/Linux-Debian-d50856?style=round-square&logo=debian&logoColor=d50856)](https://www.debian.org/index.de.html)

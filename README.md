@@ -56,18 +56,57 @@ I learned a lot from the open-source community and I love how collaboration and 
 <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/js.svg"></code>
 <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/python.svg"></code>
 </p>
+
+</br>
+
+<h3 align="center">Operating Systems</h3>
+<p align="center">
+ <a href="https://www.apple.com/macos/ventura">
+  <img src="https://img.shields.io/badge/macOS-Ventura-e66702?style=round-square&logo=apple&logoColor=ffffff"></img>
+ </a>
+
+</br>
+
+ <a href="https://www.debian.org/index.de.html">
+  <img src="https://img.shields.io/badge/Linux-Debian-d50856?style=round-square&logo=debian&logoColor=d50856"></img>
+ </a>
+
+</br>
+
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
+  <img src="https://img.shields.io/badge/Windows-11-2596be?style=round-square&logo=windows11&logoColor=2596be"></img>
+ </a>
  
-### Operating Systems
-- MacOS Ventura: &ensp;[![macOS](https://img.shields.io/badge/macOS-Ventura-e66702?style=round-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/ventura)
-- Debian Linux:&emsp;&emsp;[![Debian-Linux](https://img.shields.io/badge/Linux-Debian-d50856?style=round-square&logo=debian&logoColor=d50856)](https://www.debian.org/index.de.html)
-- Arch Linux:&emsp;&emsp;&emsp;[![Arch-Linux](https://img.shields.io/badge/Linux-Arch-1e3f5a?style=round-square&logo=archlinux&logoColor=1793d1)](https://archlinux.org/)
-- Kali Linux:&emsp;&emsp;&emsp;&ensp;[![Kali-Linux](https://img.shields.io/badge/Linux-Kali-2c74ec?style=round-square&logo=kalilinux&logoColor=ffffff)](https://archlinux.org/)
-- Windows 11:&emsp;&emsp;&nbsp;[![Windows-11](https://img.shields.io/badge/Windows-11-2596be?style=round-square&logo=windows11&logoColor=2596be)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+</br>
 
-### Tools
-- GitHub Copilot:&emsp;&emsp;[![GitHub CoPilot](https://img.shields.io/badge/GitHub-CoPilot-56b335?style=round-square&logo=github&logoColor=56b335)](https://github.com/features/copilot)
-- Visual Studio Code: [![VS Code](https://img.shields.io/badge/IDE-VSCode-1087d2?style=round-square&logo=Visual-studio-code&logoColor=1087d2)](https://code.visualstudio.com/)
+ <a href="https://archlinux.org/">
+  <img src="https://img.shields.io/badge/Linux-Arch-1e3f5a?style=round-square&logo=archlinux&logoColor=1793d1"></img>
+ </a>
 
+</br>
+
+ <a href="https://www.kali.org/">
+  <img src="https://img.shields.io/badge/Linux-Kali-2c74ec?style=round-square&logo=kalilinux&logoColor=ffffff"></img>
+ </a>
+
+</br>
+</p>
+
+<h3 align="center">Tools</h3>
+
+<p align="center">
+ <a href="https://github.com/features/copilot">
+  <img src="https://img.shields.io/badge/GitHub-CoPilot-56b335?style=round-square&logo=github&logoColor=56b335"></img>
+ </a>
+
+</br>
+
+ <a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/IDE-VSCode-1087d2?style=round-square&logo=Visual-studio-code&logoColor=1087d2"></img>
+ </a>
+</p
+
+</br>
 
 <h2 align = "center">
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/chart-increasing_1f4c8.png" height="20em"/> 

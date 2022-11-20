@@ -116,15 +116,15 @@ I learned a lot from the open-source community and I love how collaboration and 
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 October 2022 - To: 17 November 2022
+From: 23 October 2022 - To: 18 November 2022
 
-Total Time: 26 hrs 34 mins
+Total Time: 28 hrs 2 mins
 
-CSS          13 hrs 26 mins  ████████████▓░░░░░░░░░░░░   50.55 %
-HTML         6 hrs 59 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.30 %
-C++          5 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   20.05 %
-Markdown     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+CSS          14 hrs          ████████████▒░░░░░░░░░░░░   49.93 %
+HTML         7 hrs 17 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.01 %
+C++          5 hrs 54 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
+Markdown     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->

@@ -116,7 +116,7 @@ I learned a lot from the open-source community and I love how collaboration and 
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 October 2022 - To: 22 November 2022
+From: 23 October 2022 - To: 23 November 2022
 
 Total Time: 32 hrs 53 mins
 

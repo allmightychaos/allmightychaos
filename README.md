@@ -48,11 +48,11 @@ I learned a lot from the open-source community and I love how collaboration and 
 <h3 align="center">Languages</h3>
 <p align="center">
 <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/cpp.svg"></code> 
-<code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/java.svg"></code>
 <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/html.svg"></code>
 <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/css.svg"></code>
 <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/js.svg"></code>
 <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/python.svg"></code>
+<code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/java.svg"></code>
 </p>
 
 </br>

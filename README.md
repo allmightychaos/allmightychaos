@@ -18,8 +18,6 @@
       <img width="50em" alt="Chaos' Twitter" src="https://github.com/allmightychaos/.github/blob/main/.resources/socials/twitter.svg"/>
 <a href="https://instagram.com/allmighty.chaos" target="_blank">
       <img width="50em" alt="Chaos' Instagram" src="https://github.com/allmightychaos/.github/blob/main/.resources/socials/instagram.svg"/>
-<a href="mailto:weghofer.sam@icloud.com" target="_blank">
-      <img width="50em" alt="Chaos' E-Mail" src="https://github.com/allmightychaos/.github/blob/main/.resources/socials/mailto.svg"/>
  </br> </br> </br>
 </p>
 

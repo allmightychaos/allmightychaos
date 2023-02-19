@@ -1,5 +1,5 @@
 <h1 align = "center">
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/waving-hand_1f44b.png" height="60em" align="center"/></br>
+<img src="https://em-content.zobj.net/thumbs/240/apple/325/waving-hand_1f44b.png" height="60em" align="center"/></br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=28A125&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Chaos+%3A);%3E+github.com%2Fallmightychaos" alt="Typing SVG" /></a>
 
 </br>
@@ -22,15 +22,15 @@
 </p>
 
 <h2 align = "center">
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/open-book_1f4d6.png" height="30em"/> 
+<img src="https://em-content.zobj.net/thumbs/240/apple/325/open-book_1f4d6.png" height="30em"/> 
  About Me 
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/open-book_1f4d6.png" height="30em"/> </br>
+<img src="https://em-content.zobj.net/thumbs/240/apple/325/open-book_1f4d6.png" height="30em"/> </br>
 </h2>
 
-- <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/desktop-computer_1f5a5-fe0f.png" height="20em"/> Software Developer
-- <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/man-technologist_1f468-200d-1f4bb.png" height="20em"/> Network Manager
-- <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/graduation-cap_1f393.png" height="20em"/> Studying computer science and software development
-- <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/326/globe-with-meridians_1f310.png" height="20em"/> You can access all my open-source projects here on GitHub
+- <img src="https://em-content.zobj.net/thumbs/240/apple/325/desktop-computer_1f5a5-fe0f.png" height="20em"/> Software Developer
+- <img src="https://em-content.zobj.net/thumbs/240/apple/325/man-technologist_1f468-200d-1f4bb.png" height="20em"/> Network Manager
+- <img src="https://em-content.zobj.net/thumbs/240/apple/325/graduation-cap_1f393.png" height="20em"/> Studying computer science and software development
+- <img src="https://em-content.zobj.net/thumbs/240/whatsapp/326/globe-with-meridians_1f310.png" height="20em"/> You can access all my open-source projects here on GitHub
 
 Hi, I'm a passionate self-taught and studying developer and a freelance software engineer from austria. 
 My passion for software lies with dreaming up ideas and making them come true.
@@ -40,9 +40,9 @@ I'm also an open-source enthusiast and maintainer.
 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <h2 align = "center">
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/hammer_1f528.png" height="25em"/> 
+<img src="https://em-content.zobj.net/thumbs/240/apple/325/hammer_1f528.png" height="25em"/> 
  Languages and Tools 
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/hammer_1f528.png" height="25em"/></br>
+<img src="https://em-content.zobj.net/thumbs/240/apple/325/hammer_1f528.png" height="25em"/></br>
 </h2>
 
 <h3 align="center">Languages</h3>

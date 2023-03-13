@@ -14,10 +14,6 @@
       <img width="50em" alt="Chaos' GitHub Profile" src="https://github.com/allmightychaos/.github/blob/main/.resources/socials/github-icon.svg"/>
 <a href="https://www.linkedin.com/in/chaos3003/" target="_blank">
       <img width="50em" alt="Chaos' Linkedin" src="https://github.com/allmightychaos/.github/blob/main/.resources/socials/linkedin.svg"/>
-<a href="https://twitter.com/allmightychaos" target="_blank">
-      <img width="50em" alt="Chaos' Twitter" src="https://github.com/allmightychaos/.github/blob/main/.resources/socials/twitter.svg"/>
-<a href="https://instagram.com/allmighty.chaos" target="_blank">
-      <img width="50em" alt="Chaos' Instagram" src="https://github.com/allmightychaos/.github/blob/main/.resources/socials/instagram.svg"/>
  </br> </br> </br>
 </p>
 

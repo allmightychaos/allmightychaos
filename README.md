@@ -6,7 +6,7 @@
 
 <img src="https://em-content.zobj.net/thumbs/240/apple/325/closed-mailbox-with-raised-flag_1f4eb.png" height="40em"/>
  Contact Me 
-<img src="https://em-content.zobj.net/thumbs/240/apple/325/closed-mailbox-with-raised-flag_1f4eb.png" height="40em"/</br>
+<img src="https://em-content.zobj.net/thumbs/240/apple/325/closed-mailbox-with-raised-flag_1f4eb.png" height="40em"/></br>
 </h1>
 
 <p align="center">
@@ -14,6 +14,8 @@
       <img width="50em" alt="Chaos' GitHub Profile" src="https://github.com/allmightychaos/.github/blob/main/.resources/socials/github-icon.svg"/>
 <a href="https://www.linkedin.com/in/chaos3003/" target="_blank">
       <img width="50em" alt="Chaos' Linkedin" src="https://github.com/allmightychaos/.github/blob/main/.resources/socials/linkedin.svg"/>
+<a href="mailto:business@almightychaos.dev">
+      <img width="50em" alt="Business' Mail" src="https://em-content.zobj.net/thumbs/240/apple/325/closed-mailbox-with-raised-flag_1f4eb.png"/>
  </br> </br> </br>
 </p>
 

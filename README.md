@@ -45,12 +45,15 @@ I learned a lot from the open-source community and I love how collaboration and 
 
 <h3 align="center">Languages</h3>
 <p align="center">
-<code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/cpp.svg"></code> 
-<code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/html.svg"></code>
-<code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/css.svg"></code>
-<code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/js.svg"></code>
-<code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/python.svg"></code>
-<code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/java.svg"></code>
+ <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/js.svg"></code>
+ <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/react.svg"></code>
+ <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/html.svg"></code>
+ <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/css.svg"></code>
+ <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/scss.svg"></code>
+ <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/tailwindcss.svg"></code>
+ <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/cpp.svg"></code> 
+ <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/python.svg"></code>
+ <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/java.svg"></code>
 </p>
 
 </br>
@@ -105,9 +108,9 @@ I learned a lot from the open-source community and I love how collaboration and 
 </br>
 
 <h2 align = "center">
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/chart-increasing_1f4c8.png" height="20em"/> 
+<img src="https://em-content.zobj.net/thumbs/160/apple/354/chart-increasing_1f4c8.png" height="20em"/> 
  Statistics
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/chart-decreasing_1f4c9.png" height="20em"/></br>
+<img src="https://em-content.zobj.net/thumbs/160/apple/354/chart-increasing_1f4c8.png" height="20em"/></br>
 </h2>
 <!--START_SECTION:waka-->
 

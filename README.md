@@ -115,16 +115,16 @@ I learned a lot from the open-source community and I love how collaboration and 
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 October 2022 - To: 28 March 2023
+From: 23 October 2022 - To: 29 March 2023
 
-Total Time: 161 hrs 35 mins
+Total Time: 161 hrs 45 mins
 
-CSS           37 hrs 24 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.15 %
-C++           33 hrs 45 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
-JavaScript    32 hrs 38 mins  █████░░░░░░░░░░░░░░░░░░░░   20.20 %
-HTML          28 hrs 44 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.79 %
-SCSS          16 hrs 21 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-JSON          4 hrs 49 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+CSS           37 hrs 25 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
+C++           33 hrs 45 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
+JavaScript    32 hrs 45 mins  █████░░░░░░░░░░░░░░░░░░░░   20.25 %
+HTML          28 hrs 45 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
+SCSS          16 hrs 23 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
+JSON          4 hrs 49 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 ```
 
 <!--END_SECTION:waka-->

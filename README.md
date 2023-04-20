@@ -112,6 +112,11 @@ I learned a lot from the open-source community and I love how collaboration and 
  Statistics
 <img src="https://em-content.zobj.net/thumbs/160/apple/354/chart-increasing_1f4c8.png" height="20em"/></br>
 </h2>
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=allmightychaos&show_icons=true&theme=vue-dark" align="center" />
+</div>
+<br><br>
 <!--START_SECTION:waka-->
 
 ```text

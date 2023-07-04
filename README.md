@@ -30,12 +30,9 @@
 - <img src="https://em-content.zobj.net/thumbs/240/apple/325/graduation-cap_1f393.png" height="20em"/> Studying computer science and software development
 - <img src="https://em-content.zobj.net/thumbs/240/whatsapp/326/globe-with-meridians_1f310.png" height="20em"/> You can access all my open-source projects here on GitHub
 
-Hi, I'm a passionate self-taught and studying developer and a freelance software engineer from austria. 
-My passion for software lies with dreaming up ideas and making them come true.
-I take great care in the experience, architecture, and code quality of the things I build.
+Greetings. At the raw age of ten, I dived headfirst into the intriguing world of application development, a journey that has chiseled me into the man standing before you. I'm on a relentless pursuit of self-betterment, fueled by masculine tenacity and an unwavering commitment to my goals.
 
-I'm also an open-source enthusiast and maintainer. 
-I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+Presently, my voyage finds me in the heart of front-end development. Here, I thrive on the challenge of creating standout applications amidst the bustling endeavor of technology. But rest assured, my learning doesn't cease. Forever a student, I continue to soak up new knowledge, adapt and hone my craft, etching my unique imprint in the ever-evolving digital sphere. Know this - I am the master of my destiny, forever striding ahead in the pursuit of excellence.
 
 <h2 align = "center">
 <img src="https://em-content.zobj.net/thumbs/240/apple/325/hammer_1f528.png" height="25em"/> 

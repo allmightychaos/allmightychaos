@@ -34,7 +34,7 @@ Greetings. At the raw age of ten, I dived headfirst into the world of developmen
 
 Presently, my voyage finds me in the heart of front-end development. Here, I thrive on the challenge of creating standout applications amidst the bustling endeavor of technology. But rest assured, my learning doesn't cease. Forever a student, I continue to soak up new knowledge, adapt and hone my craft, etching my unique imprint in the ever-evolving digital sphere.
 
-Know this... I am the master of my destiny.
+Know this - I am the master of my destiny.
 
 <h2 align = "center">
 <img src="https://em-content.zobj.net/thumbs/240/apple/325/hammer_1f528.png" height="25em"/> 

@@ -119,15 +119,15 @@ Know this - I am the master of my destiny.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2022 - To: 03 October 2023
+From: 23 October 2022 - To: 04 October 2023
 
-Total Time: 229 hrs 7 mins
+Total Time: 231 hrs 27 mins
 
-JavaScript       54 hrs 11 mins  ██████░░░░░░░░░░░░░░░░░░░   23.65 %
-CSS              42 hrs 46 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-C++              38 hrs 46 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
-HTML             36 hrs 48 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
-SCSS             17 hrs 25 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+JavaScript       54 hrs 11 mins  ██████░░░░░░░░░░░░░░░░░░░   23.41 %
+CSS              42 hrs 46 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
+C++              38 hrs 46 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
+HTML             36 hrs 48 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
+SCSS             17 hrs 25 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
 ```
 
 <!--END_SECTION:waka-->

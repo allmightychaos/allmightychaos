@@ -119,7 +119,7 @@ Know this - I am the master of my destiny.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2022 - To: 27 October 2023
+From: 23 October 2022 - To: 28 October 2023
 
 Total Time: 254 hrs 17 mins
 

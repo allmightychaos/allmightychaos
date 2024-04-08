@@ -59,14 +59,8 @@ Hope you enjoy your stay here :)
 
 <h3 align="center">Operating Systems</h3>
 <p align="center">
- <a href="https://www.apple.com/macos/ventura">
-  <img src="https://img.shields.io/badge/macOS-Ventura-e66702?style=round-square&logo=apple&logoColor=ffffff"></img>
- </a>
-
-</br>
-
- <a href="https://www.debian.org/index.de.html">
-  <img src="https://img.shields.io/badge/Linux-Debian-d50856?style=round-square&logo=debian&logoColor=d50856"></img>
+ <a href="https://www.apple.com/macos/sonoma">
+  <img src="https://img.shields.io/badge/macOS-Sonoma-479B50?style=round-square&logo=apple&logoColor=ffffff"></img>
  </a>
 
 </br>
@@ -74,17 +68,9 @@ Hope you enjoy your stay here :)
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
   <img src="https://img.shields.io/badge/Windows-11-2596be?style=round-square&logo=windows11&logoColor=2596be"></img>
  </a>
- 
-</br>
 
- <a href="https://archlinux.org/">
-  <img src="https://img.shields.io/badge/Linux-Arch-1e3f5a?style=round-square&logo=archlinux&logoColor=1793d1"></img>
- </a>
-
-</br>
-
- <a href="https://www.kali.org/">
-  <img src="https://img.shields.io/badge/Linux-Kali-2c74ec?style=round-square&logo=kalilinux&logoColor=ffffff"></img>
+ <a href="https://www.kali.org">
+ <img src="https://img.shields.io/badge/Kali-Linux-557C94?logo=kalilinux&logoColor=fff"><img>
  </a>
 
 </br>
@@ -94,7 +80,7 @@ Hope you enjoy your stay here :)
 
 <p align="center">
  <a href="https://github.com/features/copilot">
-  <img src="https://img.shields.io/badge/GitHub-CoPilot-56b335?style=round-square&logo=github&logoColor=56b335"></img>
+  <img src="https://img.shields.io/badge/GitHub-Copilot-56b335?style=round-square&logo=github&logoColor=56b335"></img>
  </a>
 
 </br>

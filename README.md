@@ -1,7 +1,6 @@
 <h1 align = "center">
 <img src="https://em-content.zobj.net/thumbs/240/apple/325/waving-hand_1f44b.png" height="60em" align="center"/></br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=28A125&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Chaos+%3A);%3E+github.com%2Fallmightychaos" alt="Typing SVG" /></a>
-
+<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=400&color=12BE19&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Chaos!;%3E+github.com%2Fallmightychaos)](https://git.io/typing-svg" alt="Typing SVG" /></a>
 </br>
 
 <img src="https://em-content.zobj.net/thumbs/240/apple/325/closed-mailbox-with-raised-flag_1f4eb.png" height="40em"/>

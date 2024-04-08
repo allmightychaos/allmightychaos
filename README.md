@@ -30,11 +30,11 @@
 - <img src="https://em-content.zobj.net/thumbs/240/apple/325/graduation-cap_1f393.png" height="20em"/> Studying computer science and software development
 - <img src="https://em-content.zobj.net/thumbs/240/whatsapp/326/globe-with-meridians_1f310.png" height="20em"/> You can access all my open-source projects here on GitHub
 
-Greetings. At the raw age of ten, I dived headfirst into the world of development, a journey that has chiseled me into the man standing before you. I'm on a relentless pursuit of self-development, fueled by masculine tenacity and an unwavering commitment to my goals.
+Hey there! I started coding at ten and haven't looked back since. It's been a wild ride that's shaped who I am: a coder with a passion for pushing limits and constantly evolving.
 
-Presently, my voyage finds me in the heart of front-end development. Here, I thrive on the challenge of creating standout applications amidst the bustling endeavor of technology. But rest assured, my learning doesn't cease. Forever a student, I continue to soak up new knowledge, adapt and hone my craft, etching my unique imprint in the ever-evolving digital sphere.
+Currently, I'm mainly about front-end development and design, diving into creating unique applications in the tech world. But the learning never stops for me, as I'm always on the lookout to adapt new skills to master and ways to perfect my craft, making my mark in the digital realm.
 
-Know this - I am the master of my destiny.
+Hope you enjoy your stay here :) 
 
 <h2 align = "center">
 <img src="https://em-content.zobj.net/thumbs/240/apple/325/hammer_1f528.png" height="25em"/> 

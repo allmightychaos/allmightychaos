@@ -104,15 +104,15 @@ Hope you enjoy your stay here :)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2022 - To: 07 April 2024
+From: 23 October 2022 - To: 08 April 2024
 
-Total Time: 298 hrs 32 mins
+Total Time: 298 hrs 52 mins
 
-JavaScript          71 hrs 41 mins  ██████░░░░░░░░░░░░░░░░░░░   24.01 %
-CSS                 44 hrs 15 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
-HTML                41 hrs 2 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-C++                 39 hrs 19 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
-SCSS                23 hrs 23 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+JavaScript          71 hrs 41 mins  ██████░░░░░░░░░░░░░░░░░░░   23.99 %
+CSS                 44 hrs 15 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
+HTML                41 hrs 2 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
+C++                 39 hrs 19 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
+SCSS                23 hrs 23 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
 ```
 
 <!--END_SECTION:waka-->

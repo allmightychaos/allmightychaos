@@ -29,9 +29,9 @@
 - <img src="https://em-content.zobj.net/thumbs/240/apple/325/graduation-cap_1f393.png" height="20em"/> Studying computer science and software development
 - <img src="https://em-content.zobj.net/thumbs/240/whatsapp/326/globe-with-meridians_1f310.png" height="20em"/> You can access all my open-source projects here on GitHub
 
-Hey there! I started coding at ten and haven't looked back since. It's been a wild ride that's shaped who I am: a coder with a passion for pushing limits and constantly evolving.
+Hey there! I started coding at ten and I haven't looked back since. It's been an incredible journey that has shaped me into the coder I am today: a passionate individual constantly pushing limits and evolving.
 
-Currently, I'm mainly about front-end development and design, diving into creating unique applications in the tech world. But the learning never stops for me, as I'm always on the lookout to adapt new skills to master and ways to perfect my craft, making my mark in the digital realm.
+Currently, I'm primarily focused on front-end development and design, creating unique applications that are changing the tech world. However, I'm never satisfied with what I know, always looking to master new skills and perfect my craft, leaving my mark on the digital landscape. 
 
 Hope you enjoy your stay here :) 
 

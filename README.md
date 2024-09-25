@@ -58,8 +58,8 @@ Hope you enjoy your stay here :)
 
 <h3 align="center">Operating Systems</h3>
 <p align="center">
- <a href="https://www.apple.com/macos/sonoma">
-  <img src="https://img.shields.io/badge/macOS-Sonoma-479B50?style=round-square&logo=apple&logoColor=ffffff"></img>
+ <a href="https://www.apple.com/macos/macos-sequoia/">
+  <img src="https://img.shields.io/badge/macOS-Sequoia-479B50?style=round-square&logo=apple&logoColor=ffffff"></img>
  </a>
 
 </br>

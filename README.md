@@ -29,9 +29,10 @@
 - <img src="https://em-content.zobj.net/thumbs/240/apple/325/graduation-cap_1f393.png" height="20em"/> Studying computer science and software development
 - <img src="https://em-content.zobj.net/thumbs/240/whatsapp/326/globe-with-meridians_1f310.png" height="20em"/> You can access all my open-source projects here on GitHub
 
-Hey there! I started coding at ten and I haven't looked back since. It's been an incredible journey that has shaped me into the coder I am today: a passionate individual constantly pushing limits and evolving.
+Hey there! I started coding at around the age of ten and I honestly haven't looked back since. It's been an incredible journey that has shaped me into the coder I am today: a passionate individual constantly pushing his limits and evolving further.
 
-Currently, I'm primarily focused on front-end development and design, creating unique applications that are changing the tech world. However, I'm never satisfied with what I know, always looking to master new skills and perfect my craft, leaving my mark on the digital landscape. 
+Currently, I'm primarily focused on front-end development and design, creating unique applications that may someday have an imapct in the tech world. <br>
+However, I'm never satisfied with what I know, thus always looking to master new skills and perfect my craft.
 
 Hope you enjoy your stay here :) 
 
@@ -52,6 +53,7 @@ Hope you enjoy your stay here :)
  <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/cpp.svg"></code> 
  <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/python.svg"></code>
  <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/java.svg"></code>
+  <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/csharp.svg"></code>
 </p>
 
 </br>

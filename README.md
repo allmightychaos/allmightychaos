@@ -106,7 +106,7 @@ Hope you enjoy your stay here :)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2022 - To: 24 April 2025
+From: 23 October 2022 - To: 25 April 2025
 
 Total Time: 344 hrs 24 mins
 

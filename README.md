@@ -1,12 +1,17 @@
-<h1 align = "center">
+<p align = "center">
 <img src="https://em-content.zobj.net/thumbs/240/apple/325/waving-hand_1f44b.png" height="60em" align="center"/></br>
 <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=400&color=12BE19&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Chaos!;%3E+github.com%2Fallmightychaos" alt="Typing SVG" /></a>
-</br>
+</p>
+
+<!-- 
+------------------------------------------------------------------------------------------------------------------------------
+TODO: CONTACT ME SECTION - CURRENTLY UNAVAILABLE
+------------------------------------------------------------------------------------------------------------------------------
 
 <img src="https://em-content.zobj.net/thumbs/240/apple/325/closed-mailbox-with-raised-flag_1f4eb.png" height="40em"/>
  Contact Me 
 <img src="https://em-content.zobj.net/thumbs/240/apple/325/closed-mailbox-with-raised-flag_1f4eb.png" height="40em"/></br>
-</h1>
+
 
 <p align="center">
 <a href="https://www.github.com/allmightychaos" target="_blank">
@@ -17,6 +22,13 @@
       <img width="50em" alt="Business' Mail" src="https://em-content.zobj.net/thumbs/240/apple/325/closed-mailbox-with-raised-flag_1f4eb.png"/>
  </br> </br> </br>
 </p>
+-->
+
+<!--
+------------------------------------------------------------------------------------------------------------------------------
+ABOUT ME SECTION
+-------------------------------------------------------------------------------------------------------------------------------
+-->
 
 <h2 align = "center">
 <img src="https://em-content.zobj.net/thumbs/240/apple/325/open-book_1f4d6.png" height="30em"/> 
@@ -26,15 +38,22 @@
 
 - <img src="https://em-content.zobj.net/thumbs/240/apple/325/desktop-computer_1f5a5-fe0f.png" height="20em"/> Software Developer
 - <img src="https://em-content.zobj.net/thumbs/240/apple/325/man-technologist_1f468-200d-1f4bb.png" height="20em"/> Network Manager
-- <img src="https://em-content.zobj.net/thumbs/240/apple/325/graduation-cap_1f393.png" height="20em"/> Studying computer science and software development
-- <img src="https://em-content.zobj.net/thumbs/240/whatsapp/326/globe-with-meridians_1f310.png" height="20em"/> You can access all my open-source projects here on GitHub
+- <img src="https://em-content.zobj.net/thumbs/240/apple/325/graduation-cap_1f393.png" height="20em"/> Studying computer science and software development (major)
+- <img src="https://em-content.zobj.net/thumbs/240/whatsapp/326/globe-with-meridians_1f310.png" height="20em"/> You can access all my open-source projects **here** on GitHub
 
-Hey there! I started coding at around the age of ten and I honestly haven't looked back since. It's been an incredible journey that has shaped me into the coder I am today: a passionate individual constantly pushing his limits and evolving further.
+Hey there! I first got into programming when I was around ten years old, and honestly, I never looked back. It's been an awesome journey that's made me the programmer I am today: someone who's passionate about constantly pushing his limits and growing.  
 
-Currently, I'm primarily focused on front-end development and design, creating unique applications that may someday have an imapct in the tech world. <br>
-However, I'm never satisfied with what I know, thus always looking to master new skills and perfect my craft.
+Right now, I'm mostly focused on front-end development and designing, artificial intelligence, creating unique apps that might one day make a difference in the world.
 
-Hope you enjoy your stay here :) 
+Oh - and just recently I've gotten a lot into HomeAssistant, Smart-Home Automations & more. 
+
+I hope you enjoy it here :)
+
+<!--
+------------------------------------------------------------------------------------------------------------------------------
+PROGRAMMING LANGUAGES AND TOOLS SECTION
+-------------------------------------------------------------------------------------------------------------------------------
+-->
 
 <h2 align = "center">
 <img src="https://em-content.zobj.net/thumbs/240/apple/325/hammer_1f528.png" height="25em"/> 
@@ -42,54 +61,35 @@ Hope you enjoy your stay here :)
 <img src="https://em-content.zobj.net/thumbs/240/apple/325/hammer_1f528.png" height="25em"/></br>
 </h2>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Programming Languages (and HA)</h3>
 <p align="center">
- <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/js.svg"></code>
- <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/html.svg"></code>
- <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/css.svg"></code>
- <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/react.svg"></code>
- <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/scss.svg"></code>
- <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/tailwindcss.svg"></code>
- <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/cpp.svg"></code> 
- <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/python.svg"></code>
- <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/java.svg"></code>
-  <code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/csharp.svg"></code>
+  <a href="https://www.python.org" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/python.svg"></code></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/js.svg"></code></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/html.svg"></code></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/css.svg"></code></a>
+  <a href="https://reactjs.org" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/react.svg"></code></a>
+  <a href="https://sass-lang.com" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/scss.svg"></code></a>
+  <a href="https://tailwindcss.com" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/tailwindcss.svg"></code></a>
+  <a href="https://isocpp.org" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/cpp.svg"></code></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/csharp.svg"></code></a>
+  <a href="https://www.java.com" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/java.svg"></code></a>
+  <a href="https://www.home-assistant.io" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/languages/home-assistant.svg"></code></a>
 </p>
-
-</br>
 
 <h3 align="center">Operating Systems</h3>
 <p align="center">
- <a href="https://www.apple.com/macos/macos-sequoia/">
-  <img src="https://img.shields.io/badge/macOS-Sequoia-479B50?style=round-square&logo=apple&logoColor=ffffff"></img>
- </a>
-
-</br>
-
- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
-  <img src="https://img.shields.io/badge/Windows-11-2596be?style=round-square&logo=windows11&logoColor=2596be"></img>
- </a>
-
- <a href="https://www.kali.org">
- <img src="https://img.shields.io/badge/Kali-Linux-557C94?logo=kalilinux&logoColor=fff"><img>
- </a>
-
-</br>
+  <a href="https://www.apple.com/macos/macos-sequoia/" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/tools/sequoia.svg"></code></a>
+  <a href="https://www.microsoft.com/windows/windows-11" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/tools/win11.svg"></code></a>
 </p>
 
 <h3 align="center">Tools</h3>
-
 <p align="center">
- <a href="https://github.com/features/copilot">
-  <img src="https://img.shields.io/badge/GitHub-Copilot-56b335?style=round-square&logo=github&logoColor=56b335"></img>
- </a>
+  <a href="https://aistudio.google.com" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/tools/aistudio.svg"></code></a>
+  <a href="https://chat.openai.com" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/tools/chatgpt.svg"></code></a>
+  <a href="https://github.com/features/copilot" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/tools/copilot.svg"></code></a>
+  <a href="https://code.visualstudio.com" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/tools/vscode.svg"></code></a>
+</p>
 
-</br>
-
- <a href="https://code.visualstudio.com/">
-  <img src="https://img.shields.io/badge/IDE-VSCode-1087d2?style=round-square&logo=Visual-studio-code&logoColor=1087d2"></img>
- </a>
-</p
 
 </br>
 

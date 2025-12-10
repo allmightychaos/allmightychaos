@@ -106,7 +106,7 @@ PROGRAMMING LANGUAGES AND TOOLS SECTION
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2022 - To: 07 December 2025
+From: 23 October 2022 - To: 08 December 2025
 
 Total Time: 432 hrs 35 mins
 

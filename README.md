@@ -41,11 +41,11 @@ ABOUT ME SECTION
 - <img src="https://em-content.zobj.net/thumbs/240/apple/325/graduation-cap_1f393.png" height="20em"/> Studying computer science and software development (major)
 - <img src="https://em-content.zobj.net/thumbs/240/whatsapp/326/globe-with-meridians_1f310.png" height="20em"/> You can access all my open-source projects **here** on GitHub
 
-Hey there! I first got into programming when I was around ten years old, and honestly, I never looked back. It's been an awesome journey that's made me the programmer I am today: someone who's passionate about constantly pushing his limits and growing.  
+Hey there! I first got into coding when I was around ten years old (started with Minecraft Mods), and honestly, I never looked back since then. It's been an awesome journey that's made me the coder I am today: someone who's passionate about constantly pushing his limits, growing and exploring new technologies.  
 
-Right now, I'm mostly focused on front-end development and designing, artificial intelligence, creating unique apps that might one day make a difference in the world.
+Right now, I'm mostly focused on front-end development and designing, artificial intelligence and creating unique apps that might one day make a difference in the world.
 
-Oh - and just recently I've gotten a lot into HomeAssistant, Smart-Home Automations & more. 
+Oh - and recently I've gotten a lot into HomeAssistant, SmartHome/n8n-automations & more. 
 
 I hope you enjoy it here :)
 
@@ -78,16 +78,16 @@ PROGRAMMING LANGUAGES AND TOOLS SECTION
 
 <h3 align="center">Operating Systems</h3>
 <p align="center">
-  <a href="https://www.apple.com/macos/macos-sequoia/" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/tools/sequoia.svg"></code></a>
+  <a href="https://www.apple.com/os/macos/" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/tools/tahoe.svg"></code></a>
   <a href="https://www.microsoft.com/windows/windows-11" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/tools/win11.svg"></code></a>
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <a href="https://aistudio.google.com" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/tools/aistudio.svg"></code></a>
-  <a href="https://chat.openai.com" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/tools/chatgpt.svg"></code></a>
-  <a href="https://github.com/features/copilot" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/tools/copilot.svg"></code></a>
   <a href="https://code.visualstudio.com" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/tools/vscode.svg"></code></a>
+  <a href="https://geminicli.com/" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/tools/gemini-cli.svg"></code></a>
+  <a href="https://gemini.google.com/app" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/tools/gemini.svg"></code></a>
+  <a href="https://aistudio.google.com" target="_blank"><code><img height="50" src="https://github.com/allmightychaos/.github/blob/main/.resources/tools/aistudio.svg"></code></a>
 </p>
 
 
@@ -103,6 +103,8 @@ PROGRAMMING LANGUAGES AND TOOLS SECTION
  <img src="https://github-readme-stats.vercel.app/api?username=allmightychaos&show_icons=true&theme=vue-dark" align="center" />
 </div>
 <br><br>
+
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -124,14 +126,6 @@ CSS                        46 hrs 33 mins  ██░░░░░░░░░░�
 </h2>
 
 <!-- If you want to have any of those pictures, feel free to contact me and I will send them to you. -->
-<p align="center">
-  <a href="https://www.paypal.com/donate/?hosted_button_id=57YPDJCJ3U66S" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://github.com/allmightychaos/.github/blob/main/.resources/support/support-paypal.svg"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/allmightychaos" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://github.com/allmightychaos/.github/blob/main/.resources/support/support-buy-coffee.svg"/>
-  </a>
-</p>
 
 <!-- Tools used for the creation: 
 - Typing Animation: https://readme-typing-svg.demolab.com/demo/

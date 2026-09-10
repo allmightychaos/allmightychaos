@@ -108,15 +108,15 @@ PROGRAMMING LANGUAGES AND TOOLS SECTION
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2022 - To: 07 September 2026
+From: 23 October 2022 - To: 08 September 2026
 
-Total Time: 1,320 hrs 48 mins
+Total Time: 1,326 hrs 22 mins
 
-Other                      634 hrs 59 mins       ████████████░░░░░░░░░░░░░   48.08 %
-JavaScript                 93 hrs 48 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-TypeScript                 91 hrs 47 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-Markdown                   71 hrs 33 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-HTML                       59 hrs 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Other                      635 hrs 59 mins       ████████████░░░░░░░░░░░░░   47.95 %
+TypeScript                 94 hrs 4 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+JavaScript                 94 hrs 2 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+Markdown                   73 hrs 13 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+HTML                       59 hrs 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
 ```
 
 <!--END_SECTION:waka-->
